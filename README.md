@@ -1,7 +1,18 @@
 # Vue 3 + Vite
+## 简介
+> 该项目为自己的 Vue 学习 demo，从 [https://www.bilibili.com/video/BV1va411Q7v9](https://www.bilibili.com/video/BV1va411Q7v9) 上看视频学习。顺带做下笔记，便于以后使用
+> 
+> HochenChong
+> 
+> 2023-01-03
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 使用
+```
+git clone https://github.com/hochenchong/vue
+cd vue
+# 安装依赖（可以先配置阿里云提供的中国镜像）
+npm install
+# 执行
+npm run dev
+```
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
